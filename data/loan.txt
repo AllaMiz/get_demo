@@ -1,5 +1,5 @@
 #customer_id, first_name,last_name,customer_category,loan_id, loan_category, due_date, due_amount, payment_date
-CT88330,Humberto,Banks,Serviceman,LN_1559,Medical Loan,26-01-2018, 2000, 30-01-2018
+CT66666,Alla,Mizhiritsky,Serviceman,LN_1559,Medical Loan,26-01-2018, 2000, 30-01-2018
 CT88330,Humberto,Banks,Serviceman,LN_1559,Medical Loan,22-02-2018, 2000, 28-02-2018
 CT88330,Humberto,Banks,Serviceman,LN_1559,Medical Loan,22-03-2018, 2000, 28-03-2018
 CT88330,Humberto,Banks,Serviceman,LN_1559,Medical Loan,29-04-2018, 2000, 29-04-2018
